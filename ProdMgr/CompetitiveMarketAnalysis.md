@@ -27,13 +27,22 @@ Substitute - They don't solve core problem.  not angled/delivered same way at al
 
 **Criteria to understand competitors**
 Now, a large part of what makes you successful as a product manager is your ability to keep tabs on your competitors and make sure that you are ahead of the curve and know what exactly they're going to do.
-Product Core - How good is competitors product team?  Great Product engineers?
-Size of the user base - if large user base, then they dominate. large company better product. Eg: Spotify soundcloud (30 mil users) with Apple music (1 billion apple users. if they convert 1% of users it is a big mrkt). 
-Design - Competitors ability to make great design. Aesthetics, usability easy to use. Eg: apple did for watch market. 
-Brand - strong brand huge competitor advantage, customer loyalty, higher pricing, they get better benefit of doubt for new users/products/initiatives. Relative positioning of competitor brand vs your brand.
-Speed - How quickly can they build/ship it. as company gets larger they get slowed down - communication /stakeholders/bureaucracies vs startup.
+_Product Core_ - How good is competitors product team?  Great Product engineers?
+_Size of the user base -_ if large user base, then they dominate. large company better product. Eg: Spotify soundcloud (30 mil users) with Apple music (1 billion apple users. if they convert 1% of users it is a big mrkt). 
+_Design _- Competitors ability to make great design. Aesthetics, usability easy to use. Eg: apple did for watch market. 
+_Brand_ - strong brand huge competitor advantage, customer loyalty, higher pricing, they get better benefit of doubt for new users/products/initiatives. Relative positioning of competitor brand vs your brand.
+_Speed_ - How quickly can they build/ship it. as company gets larger they get slowed down - communication /stakeholders/bureaucracies vs startup.
 
 **Where to get this info and Monitor Competition?**
+Funding - more money - hire people for product team, marketing, growth etc. VC's. Crunchbase
+Acquisitions - 
+New features/Product launches - mention.com keyword alerts in google notifications.
+**Feature Table**
+Direct Competitors (x axis) vs Features (Price, reliability, a Feature, an ability to do something, put what you think is important for your customer group).
+
+
+
+
 
 
 
