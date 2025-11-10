@@ -59,6 +59,17 @@ Startups: Validation metrics - good idea, meet user needs, problem exist, % incr
 economic viablity. 
 
 **Techniques**
+  Email MVP - send emails
+  Shadow MVP - create a feature related button. Once cliked registers for the feature, or shows coming soon.  startups use to triage nice to have features, eg: login with linkedin, google, fb etc. fake buttons to gauge interest
+  404 page - Amazon uses it extensively. categories of products, new projects etc.
+  coming soon page -  pre order page, 
+  Explainer MVP - tutorial videos and sales related videos. Eg: Dropbox used this. Founder uploaded fake video of saving files to cloud. People showed interest. Sales related - some video editor with features etc asking to sign up for notification. 
+  Fake landing page 
+  Landing page Pitch experiment - online experiment, you pitch to online audience. Use Landing pages. Create fake landing pages to gauge interest. Even for a feature/product to drive internal traffic or external.
+  Concierge service MVP - launch product to subset of users. new thing, manually help them. first hand experience. ask for recommendations. eg: amazon launching new bot service, rent the runway dress rentals, 
+  piecemeal MVP - use small softwares to stitch your product to test it. formstack, typeform, jotform, twilio, recurly. Eg: groupon uses this. bombarded with emails with diff products. they created site on wordpress 
+  Wizard of Oz MVP - manually done at backend. let's say fb feature for matching interest people - instead of building algo, manually update them at backend. eg: Zappos. shoe seller but did not had shoes inventory.
+  
   
 
 
