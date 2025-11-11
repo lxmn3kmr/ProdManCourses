@@ -19,11 +19,31 @@ Engagement -
 User Happiness - NPS score, complaints, app ratings
 Revenue metrics - LTV, Cost of customer acquisition, B2B - Monthly recurring revenue per month/year
 
-How to pick good metrics - Understandable, Rate or Ratio, Correlation, able to change, 
+**How to pick good metrics** - Understandable, Rate or Ratio, Correlation, able to change, 
  FB overall metric - spend more time on app. But as PM we may have a sub level metric - increase comments which will increase overall time on app. 
  exploratory metric  - hunting clues. 
  reporting metrics - 
- 
- 
 
+ **Metrics Framework - HEART** 
+  IIAAYKIG  
+  UBER for X --> UBER for alocholic lemonade .
+  Matrix.
+  HEART order - ATERH. 
+                 Goals(what do you want to happen)  Signals(what we need to measure?)   Metrics (A signal expressed over time)
+  Happiness -  drinker satisfaction, delivery service;  App store, NPS survey; 
+  engagement - #of orders, total value of order(extra add ons, service); same as goal
+  adoption -  # of people atleast one order; same as goal,  who have not done any order after downloadin,; 
+  retention - # of people repeat orders; time period - when they ordered frequency; 
+  task success - minimize abandon cart, maximize order in 5min; same as goal; 
+
+
+  **AARRR** metric framework
+  Acquisition, Activation, Retention, Referral, Revenue
+
+
+  Tools: Google analytics. CrazyEgg - heatmap; Kissmetrics; mixpanel; Optimizely; Segment
+
+  
+  
+  
 
