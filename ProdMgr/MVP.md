@@ -69,7 +69,13 @@ economic viablity.
   Concierge service MVP - launch product to subset of users. new thing, manually help them. first hand experience. ask for recommendations. eg: amazon launching new bot service, rent the runway dress rentals, 
   piecemeal MVP - use small softwares to stitch your product to test it. formstack, typeform, jotform, twilio, recurly. Eg: groupon uses this. bombarded with emails with diff products. they created site on wordpress 
   Wizard of Oz MVP - manually done at backend. let's say fb feature for matching interest people - instead of building algo, manually update them at backend. eg: Zappos. shoe seller but did not had shoes inventory.
-  
+
+
+  Risk for large organizations - Brand.  
+  Mostly MVP in large org is actually a product with minimum features. - one feature app. 
+
+  Qualitative and Quantitative 
+  MVP experiments primarily return Quant data. So might need to do have regular conversations with users involved in your test. 
   
 
 
